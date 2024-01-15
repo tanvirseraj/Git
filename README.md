@@ -123,8 +123,8 @@ http://www.youtube.com
 
 ### image sytax
 
-<!-- ![profile](./images/Tan.jpg) -->
-<img src="./images/Tan.jpg" width="400" title="profile image"/>
+<!-- ![profile](.//images/Tan.jpg) -->
+<img src=".//images/Tan.jpg" width="400" title="profile image"/>
 😊
 
 <br/>
