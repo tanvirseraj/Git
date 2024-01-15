@@ -123,11 +123,7 @@ http://www.youtube.com
 
 ### image sytax
 
-![Tan](https://github.com/tanvirseraj/Git/assets/85784149/ee55001e-302f-46ae-91f9-2aa307368ead {width=40px height=400px})
-
-<!-- ![profile](.//images/Tan.jpg) -->
-<img src=".//images/Tan.jpg" width="400" title="profile image"/>
-😊
+![Tan](https://github.com/tanvirseraj/Git/assets/85784149/ee55001e-302f-46ae-91f9-2aa307368ead)
 
 <br/>
 
@@ -177,7 +173,7 @@ If you prefer Yarn, you can install it using npm: npm install -g yarn Then, you 
 ```bash
   yarn --version
 ```
-//![image](https://github.com/easabbir/reservation/assets/110620143/3efbf64b-888a-41aa-b57d-a41e08a3ad4c)//
+<!---![image](https://github.com/easabbir/reservation/assets/110620143/3efbf64b-888a-41aa-b57d-a41e08a3ad4c)--->
 
 ## Clone and Run this project
 **Step 1:**  Clone this Git Repository by open run the following command in command prompt
