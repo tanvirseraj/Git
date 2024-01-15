@@ -124,8 +124,6 @@ http://www.youtube.com
 ### image sytax
 
 ![Tan](https://github.com/tanvirseraj/Git/assets/85784149/ee55001e-302f-46ae-91f9-2aa307368ead)
-![image](https://github.com/tanvirseraj/Git/assets/85784149/4fd99eea-630e-4c8d-bd9f-b1eb07de8f05)
-
 
 
 <br/>
