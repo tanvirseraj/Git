@@ -175,14 +175,14 @@ If you prefer Yarn, you can install it using npm: npm install -g yarn Then, you 
 ```bash
   yarn --version
 ```
-//![image](https://github.com/easabbir/reservation/assets/110620143/3efbf64b-888a-41aa-b57d-a41e08a3ad4c)
+//![image](https://github.com/easabbir/reservation/assets/110620143/3efbf64b-888a-41aa-b57d-a41e08a3ad4c)//
 
 ## Clone and Run this project
 **Step 1:**  Clone this Git Repository by open run the following command in command prompt
 ```bash
   git clone [https://github.com/tanvirseraj/Git]
 ```
-//![image](https://github.com/easabbir/reservation/assets/110620143/3472e455-ab51-4387-a0ab-5e29da49e5e7)
+//![image](https://github.com/easabbir/reservation/assets/110620143/3472e455-ab51-4387-a0ab-5e29da49e5e7)//
 
 
 **Step 2:** Installed all Dependencies: Once the repository is cloned, navigate to the project's directory and run the following command
