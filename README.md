@@ -180,7 +180,7 @@ If you prefer Yarn, you can install it using npm: npm install -g yarn Then, you 
 ```bash
   git clone [https://github.com/tanvirseraj/Git]
 ```
-//![image](https://github.com/easabbir/reservation/assets/110620143/3472e455-ab51-4387-a0ab-5e29da49e5e7)//
+<!---![image](https://github.com/easabbir/reservation/assets/110620143/3472e455-ab51-4387-a0ab-5e29da49e5e7)--->
 
 
 **Step 2:** Installed all Dependencies: Once the repository is cloned, navigate to the project's directory and run the following command
@@ -193,14 +193,14 @@ If you use yarn
   yarn install
 ```
 This command will read the package.json file and install the required packages into the node_modules directory.
-//![image](https://github.com/easabbir/reservation/assets/110620143/95b63945-15b0-4616-b498-3dac900c3dfb)
+<!---![image](https://github.com/easabbir/reservation/assets/110620143/95b63945-15b0-4616-b498-3dac900c3dfb)--->
 
 
 **Step 3:** On the project's directory run the following command to directly run this project in command prompt.
 ```bash
   npx cypress run
 ```
-//![image](https://github.com/easabbir/reservation/assets/110620143/a9c9a662-a354-4f88-a9bd-b3cf8639e65c)
+<!---![image](https://github.com/easabbir/reservation/assets/110620143/a9c9a662-a354-4f88-a9bd-b3cf8639e65c)--->
 
 **If you want to see the test visually**
   - Perform the following command. It will open cypress.
@@ -211,7 +211,7 @@ This command will read the package.json file and install the required packages i
   - Select your desire browser and clicked on start E2E testing
   - you will see spec files. Select any spec which one you want to run
   - Spec will run automatically
-    //![image](https://github.com/easabbir/reservation/assets/110620143/df3b9a5f-214e-43a1-a488-fc0f3ff815df)
+    <!---![image](https://github.com/easabbir/reservation/assets/110620143/df3b9a5f-214e-43a1-a488-fc0f3ff815df)--->
 
 **By following these steps, you'll clone the Git repository, install the project's dependencies, and run the project**
 
